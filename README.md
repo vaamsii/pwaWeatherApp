@@ -9,4 +9,4 @@ This Web app passed the PWA test using https://www.dunplab.it/pwa-tester-online 
 This web app is currently deployed and hosted through netlify.
 
 
-![alt text](https://github.com/[vaamsii]/[pwaWeatherApp]/blob/[main]/Screen Shot 2021-01-24 at 8.33.52 PM.png?raw=true)
+![alt text](https://github.com/[vaamsii]/[pwaWeatherApp]/blob/[main]/IMG_6812.PNG?raw=true)
