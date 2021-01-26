@@ -8,3 +8,6 @@ This Web app passed the PWA test using https://www.dunplab.it/pwa-tester-online 
 
 This web app is currently deployed and hosted through netlify.
 
+# Resources:
+
+- Weather REST API was used for this.
